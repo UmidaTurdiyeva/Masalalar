@@ -1,0 +1,2 @@
+# Masalalar
+javadan yechilgan masalalar
